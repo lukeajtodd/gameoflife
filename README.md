@@ -4,7 +4,7 @@ React based recreation of Conway's Game of Life
 - React
 
 ## Instructions
-1. `npm i`
-2. `npm start`
-3. View localhost:XXXX
+1. `yarn`
+2. `yarn start`
+3. View localhost:3000
 4. Play
